@@ -11,4 +11,5 @@ This project is a Jetpack Compose Playground sample that demonstrates building a
 ✅ Sample button to simulate step updates
 
 # 📸 Screenshot
-<img src="res/drawable/ui.png" width="300"/>
+<img src="https://raw.githubusercontent.com/richarst12/compose-playground/main/app/src/main/res/drawable/ui.png" width="300"/>
+
